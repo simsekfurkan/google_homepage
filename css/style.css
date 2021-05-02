@@ -1,0 +1,110 @@
+.logo{
+  margin: 0;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.right{
+  float: left;
+  width: 50%;
+
+
+}
+
+.left{
+  float: right;
+  width: 50%;
+  text-align: right;
+  justify-content: center;
+}
+.about{
+  padding: 5px;
+  text-decoration: none;
+  color: #5f6368;
+  font-family: Arial;
+  font-size: 12px;
+}
+
+.g-menu{
+  height: 20px;
+}
+
+.button{
+  background-color: rgb(53,108,246);
+  color: white;
+  border-style: none;
+
+}
+
+.input{
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 480px ;
+  height: 34px;
+  border-color: lightgray;
+  border-style: groove;
+  border-radius: 30px;
+
+}
+
+.search-logo{
+    height: 25px;
+    padding-left: 5px;
+    padding-top: 2px;
+}
+
+.input-2{
+  border-style: none;
+  width: 400px;
+  height: 20px;
+  border-color: white4
+  text-align: center;
+  margin: auto;
+
+}
+.voice{
+  float: right;
+  text-align: center;
+  height: 29px;
+  padding-right: 5px;
+  padding-top: 2px
+}
+
+
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f2f2f2;
+  justify-items: center;
+}
+
+.buttonn{
+  position: absolute;
+  top: 47%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+}
+.button2{
+  position: absolute;
+  top: 47%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+}
+
+.button-mid{
+  background-color: #f2f2f2;
+  height: 36px;
+  font-family: Arial;
+  border-style: none;
+  color: #5f6368;
+
+}
+
+
